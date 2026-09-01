@@ -33,8 +33,7 @@ Claude Desktop の `Code` タブでこのフォルダを開くと、会計の MC
 |------|--------|
 | Claude Desktop | https://claude.com/download |
 | Git | https://git-scm.com/downloads |
-| Node.js | 勤怠を使うときだけ要ります。https://nodejs.org/ja の「LTS」 |
-| Google Chrome | 勤怠を使うときだけ要ります |
+| Google Chrome | 勤怠を使うときだけ要ります。Claude in Chrome 拡張 https://chromewebstore.google.com/detail/claude/fcoeoabgfenejglbffodgkkbkcdhcgfn を入れ、Claude デスクトップアプリの `Settings` ＞ `Connectors` ＞ `Claude in Chrome` ＞ `Configure` でトグルをオンにします |
 
 マネーフォワード側は、クラウド会計の「全権管理」権限のあるアカウントで
 アプリ連携の設定を行います。
